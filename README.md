@@ -1,4 +1,4 @@
-Hello, i'm Stone Baldwin
+Hey, i'm Stone Baldwin
 
 Currently a Management Information Systems undergraduate at UNCW
 
