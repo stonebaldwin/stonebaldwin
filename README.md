@@ -1,4 +1,4 @@
-![Stone's Github Banner](https://github.com/stonebaldwin/stonebaldwin/blob/main/assets/Github-Banner.png)
+![Stone's Github Banner](https://github.com/stonebaldwin/stonebaldwin/blob/main/assets/Github-Banner1.png)
 
 Howdy 👋,
 
