@@ -1,14 +1,16 @@
-Hey, i'm Stone Baldwin
+![Stone's Github Banner](https://github.com/stonebaldwin/stonebaldwin/blob/main/assets/Github-Banner.png)
 
-Currently a Management Information Systems undergraduate at UNCW
+Howdy 👋,
+
+I'm currently a Management Information Systems undergraduate at UNCW
 
 Full Stack developer that focuses on front-end development.
 
 
-## Pinned Repositories
+## 📍 Pinned Repositories
 
 
-## Skills
+## 💻 Skills
 
 
-## Stats
+## 📊 Stats
