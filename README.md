@@ -2,7 +2,7 @@
 
 Howdy 👋,
 
-I'm currently a Management Information Systems undergraduate at UNCW
+Currently a Management Information Systems undergraduate at UNCW
 
 Full Stack developer that focuses on front-end development.
 
