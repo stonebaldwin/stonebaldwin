@@ -2,9 +2,9 @@
 
 Howdy 👋,
 
-Currently a Management Information Systems undergraduate at UNCW
+Currently a Management Information Systems student at UNCW
 
-Full Stack developer that focuses on front-end development.
+Full Stack developer that focuses on front-end development. 
 
 
 ## 📍 Pinned Repositories
@@ -19,6 +19,16 @@ Full Stack developer that focuses on front-end development.
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 
+
+
+## 🖱️ Other Skills
+<details><summary> </summary>
+Adobe Photoshop
+- Adobe Illustrator
+- Adobe After Effects
+- Adobe Premiere
+- Adobe Dreamweaver
+</details>
 
 ## 📊 Stats
 
