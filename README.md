@@ -6,10 +6,6 @@ Currently a Management Information Systems student at UNCW
 
 Full Stack developer that focuses on front-end development. 
 
-
-## 📍 Pinned Repositories
-
-
 ## 💻 Skills
 
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
