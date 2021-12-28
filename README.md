@@ -6,6 +6,8 @@ Currently a Management Information Systems student at UNCW
 
 Full Stack developer that focuses on front-end development. 
 
+- I am currently working on [Lynn Design Website Redesign](https://github.com/stonebaldwin/lynndesign)
+
 ## 💻 Skills
 
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
@@ -18,7 +20,7 @@ Full Stack developer that focuses on front-end development.
 
 
 ## 🖱️ Other Skills
-<details><summary> </summary>
+<details><summary>Click Here </summary>
 Adobe Photoshop
 - Adobe Illustrator
 - Adobe After Effects
